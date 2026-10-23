@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\01 Tudor\Facultate\02.ASE(IFR)\Programa ID\Anul II\Semestrul 1\Programare Orientata Obiect\Activitate\Calculator\Source.cpp(23,26): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+D:\01 Tudor\Facultate\02.ASE(IFR)\Programa ID\Anul II\Semestrul 1\Programare Orientata Obiect\Activitate\Calculator\Source.cpp(23,26): warning C4566: character represented by universal-character-name '\u021B' cannot be represented in the current code page (1252)
+  Calculator.vcxproj -> D:\01 Tudor\Facultate\02.ASE(IFR)\Programa ID\Anul II\Semestrul 1\Programare Orientata Obiect\Activitate\Calculator\x64\Debug\Calculator.exe
